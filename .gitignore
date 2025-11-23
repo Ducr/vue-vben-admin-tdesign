@@ -13,6 +13,7 @@ dist.war
 coverage
 *.local
 **/.vitepress/cache
+**/.vitepress/config/*.timestamp-*.mjs
 .cache
 .turbo
 .temp
