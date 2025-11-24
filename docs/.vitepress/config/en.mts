@@ -16,11 +16,11 @@ export const en = defineConfig({
     },
     editLink: {
       pattern:
-        'https://github.com/vbenjs/vue-vben-admin/edit/main/docs/src/:path',
+        'https://github.com/Ducr/vue-vben-admin-tdesign/edit/main/docs/src/:path',
       text: 'Edit this page on GitHub',
     },
     footer: {
-      copyright: `Copyright © 2020-${new Date().getFullYear()} Vben`,
+      copyright: `Copyright © 2020-${new Date().getFullYear()} Ducr`,
       message: 'Released under the MIT License.',
     },
     langMenuLabel: 'Language',
@@ -166,19 +166,19 @@ function nav(): DefaultTheme.NavItem[] {
           text: 'Vben Admin',
           items: [
             {
-              link: 'https://www.vben.pro',
-              text: 'Demo Version',
+              link: 'https://ducrong.com/vue-vben-admin-tdesign',
+              text: 'TDesign Version',
             },
             {
-              link: 'https://ant.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-antd',
               text: 'Ant Design Vue Version',
             },
             {
-              link: 'https://naive.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-naive',
               text: 'Naive Version',
             },
             {
-              link: 'https://ele.vben.pro',
+              link: 'https://ducrong.com/vue-vben-admin-ele',
               text: 'Element Plus Version',
             },
           ],
@@ -198,15 +198,15 @@ function nav(): DefaultTheme.NavItem[] {
       text: version,
       items: [
         {
-          link: 'https://github.com/vbenjs/vue-vben-admin/releases',
+          link: 'https://github.com/Ducr/vue-vben-admin-tdesign/releases',
           text: 'Changelog',
         },
         {
-          link: 'https://github.com/orgs/vbenjs/projects/5',
+          link: 'https://github.com/Ducr/vue-vben-admin-tdesign',
           text: 'Roadmap',
         },
         {
-          link: 'https://github.com/vbenjs/vue-vben-admin/blob/main/.github/contributing.md',
+          link: 'https://github.com/Ducr/vue-vben-admin-tdesign/blob/main/.github/contributing.md',
           text: 'Contribution',
         },
       ],

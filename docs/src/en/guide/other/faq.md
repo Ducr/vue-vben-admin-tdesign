@@ -2,7 +2,7 @@
 
 ::: tip Listed are some common questions
 
-If you have a question, you can first look here. If not found, you can search or submit your question on [GitHub Issue](https://github.com/vbenjs/vue-vben-admin/issues), or if it's a discussion-type question, you can go to [GitHub Discussions](https://github.com/vbenjs/vue-vben-admin/discussions)
+If you have a question, you can first look here. If not found, you can search or submit your question on [GitHub Issue](https://github.com/Ducr/vue-vben-admin-tdesign/issues), or if it's a discussion-type question, you can go to [GitHub Discussions](https://github.com/Ducr/vue-vben-admin-tdesign/discussions)
 
 :::
 
@@ -10,11 +10,11 @@ If you have a question, you can first look here. If not found, you can search or
 
 If you encounter a problem, you can start looking from the following aspects:
 
-1. Search the corresponding module's GitHub repository [issue](https://github.com/vbenjs/vue-vben-admin/issues)
+1. Search the corresponding module's GitHub repository [issue](https://github.com/Ducr/vue-vben-admin-tdesign/issues)
 2. Search for the problem on [Google](https://www.google.com)
 3. Search for the problem on [Baidu](https://www.baidu.com)
-4. If you can't find the issue in the list below, you can ask in [issues](https://github.com/vbenjs/vue-vben-admin/issues)
-5. If it's not a problem type and needs discussion, please go to [discussions](https://github.com/vbenjs/vue-vben-admin/discussions) to discuss
+4. If you can't find the issue in the list below, you can ask in [issues](https://github.com/Ducr/vue-vben-admin-tdesign/issues)
+5. If it's not a problem type and needs discussion, please go to [discussions](https://github.com/Ducr/vue-vben-admin-tdesign/discussions) to discuss
 
 ## Dependency Issues
 

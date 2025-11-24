@@ -84,7 +84,7 @@ const notifications = ref<NotificationItem[]>([
     isRead: false,
     message: '描述信息描述信息描述信息',
     title: '跳转外部链接示例',
-    link: 'https://doc.vben.pro',
+    link: 'https://ducrong.com/vue-vben-admin-tdesign/docs',
   },
 ]);
 
@@ -201,7 +201,7 @@ onBeforeMount(() => {
         :avatar
         :menus
         :text="userStore.userInfo?.realName"
-        description="ann.vben@gmail.com"
+        description="ducrong@126.com"
         tag-text="Pro"
         trigger="both"
         @logout="handleLogout"

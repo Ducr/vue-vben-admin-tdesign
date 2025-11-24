@@ -19,7 +19,7 @@
 1. 克隆代码
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-tdesign.git
 ```
 
 2. 添加自己的公司 git 源地址

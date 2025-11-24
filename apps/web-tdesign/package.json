@@ -1,18 +1,18 @@
 {
   "name": "@vben/web-tdesign",
   "version": "5.5.9",
-  "homepage": "https://vben.pro",
-  "bugs": "https://github.com/vbenjs/vue-vben-admin/issues",
+  "homepage": "https://ducrong.com/vue-vben-admin-tdesign",
+  "bugs": "https://github.com/Ducr/vue-vben-admin-tdesign/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbenjs/vue-vben-admin.git",
+    "url": "git+https://github.com/Ducr/vue-vben-admin-tdesign.git",
     "directory": "apps/web-tdesign"
   },
   "license": "MIT",
   "author": {
-    "name": "vben",
-    "email": "ann.vben@gmail.com",
-    "url": "https://github.com/anncwb"
+    "name": "Ducr",
+    "email": "ducrong@126.com",
+    "url": "https://github.com/Ducr"
   },
   "type": "module",
   "scripts": {

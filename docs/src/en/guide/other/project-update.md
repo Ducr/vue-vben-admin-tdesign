@@ -19,7 +19,7 @@ It is recommended to follow the repository updates actively and merge them; do n
 1. Clone the code
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-tdesign.git
 ```
 
 2. Add your company's git source address

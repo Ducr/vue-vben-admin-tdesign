@@ -1,6 +1,6 @@
 # About Vben Admin
 
-::: info You are reading the documentation for [Vben Admin](https://github.com/vbenjs/vue-vben-admin) version `5.0`!
+::: info You are reading the documentation for [Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) version `5.0`!
 
 - Vben Admin 2.x is currently archived and only receives critical fixes.
 - The new version is not compatible with the old version. If you are using the old version (v2, v3), please refer to the [Vue Vben Admin 2.x Documentation](https://doc.vvbin.cn).
@@ -9,7 +9,7 @@
 
 :::
 
-[Vben Admin](https://github.com/vbenjs/vue-vben-admin) is a backend solution based on [Vue 3.0](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), and [TypeScript](https://www.typescriptlang.org/), aimed at providing an out-of-the-box solution for developing medium to large-scale projects. It includes features like component re-encapsulation, utilities, hooks, dynamic menus, permission validation, multi-theme configurations, and button-level permission control. The project uses the latest frontend technology stack, making it a good starting template for quickly building enterprise-level mid- to backend product prototypes. It can also serve as an example for learning `vue3`, `vite`, `ts`, and other mainstream technologies. The project will continue to follow the latest technologies and apply them within the project.
+[Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) is a backend solution based on [Vue 3.0](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [TypeScript](https://www.typescriptlang.org/), and [TDesign](https://tdesign.tencent.com/), aimed at providing an out-of-the-box solution for developing medium to large-scale projects. It includes features like component re-encapsulation, utilities, hooks, dynamic menus, permission validation, multi-theme configurations, and button-level permission control. The project uses the latest frontend technology stack, making it a good starting template for quickly building enterprise-level mid- to backend product prototypes. It can also serve as an example for learning `vue3`, `vite`, `ts`, and other mainstream technologies. The project will continue to follow the latest technologies and apply them within the project.
 
 ## Features
 
@@ -36,7 +36,7 @@
 
 ## Contribution
 
-- [Vben Admin](https://github.com/vbenjs/vue-vben-admin) is still being actively updated. Contributions are welcome to help maintain and improve the project, aiming to create a better mid- to backend solution.
+- [Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) is still being actively updated. Contributions are welcome to help maintain and improve the project, aiming to create a better mid- to backend solution.
 - If you wish to join us, you can start by contributing in the following ways, and we will invite you to join based on your activity.
 
 ::: info Join Us

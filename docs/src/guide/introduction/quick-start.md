@@ -32,13 +32,7 @@ git -v
 
 ```sh [GitHub]
 # clone 代码
-git clone https://github.com/vbenjs/vue-vben-admin.git
-```
-
-```sh [Gitee]
-# clone 代码
-# Gitee 的代码可能不是最新的
-git clone https://gitee.com/annsion/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-tdesign.git
 ```
 
 :::
@@ -55,7 +49,7 @@ git clone https://gitee.com/annsion/vue-vben-admin.git
 
 ```bash
 # 进入项目目录
-cd vue-vben-admin
+cd vue-vben-admin-tdesign
 
 # 使用项目指定的pnpm版本进行依赖安装
 npm i -g corepack

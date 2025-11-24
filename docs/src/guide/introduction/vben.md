@@ -1,15 +1,14 @@
 # 关于 Vben Admin
 
-::: info 你正在阅读的是 [Vben Admin](https://github.com/vbenjs/vue-vben-admin) `5.0`版本的文档！
+::: info 你正在阅读的是 [Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) `5.0`版本的文档！
 
-- Vben Admin 2.x 目前已存档，仅进行重大问题修复。
-- 新版本与旧版本不兼容，如果你使用的是旧版本（v2、v3），请查看 [Vue Vben Admin 2.x 文档](https://doc.vvbin.cn)
-- 如发现文档有误，欢迎提交 [issue](https://github.com/vbenjs/vue-vben-admin/issues) 帮助我们改进。
+- Vue Vben Admin TDesign 是基于 TDesign 的中后台解决方案。
+- 如发现文档有误，欢迎提交 [issue](https://github.com/Ducr/vue-vben-admin-tdesign/issues) 帮助我们改进。
 - 如果你只是想体验一下，你可以查看[快速开始](./quick-start.md)。
 
 :::
 
-[Vben Admin](https://github.com/vbenjs/vue-vben-admin) 是一个基于 [Vue3.0](https://github.com/vuejs/core)、[Vite](https://github.com/vitejs/vite)、 [TypeScript](https://www.typescriptlang.org/) 的中后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、动态菜单、权限校验、多主题配置、按钮级别权限控制等功能。项目会使用前端较新的技术栈，可以作为项目的启动模板，以帮助你快速搭建企业级中后台产品原型。也可以作为一个示例，用于学习 `vue3`、`vite`、`ts` 等主流技术。该项目会持续跟进最新技术，并将其应用在项目中。
+[Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) 是一个基于 [Vue3.0](https://github.com/vuejs/core)、[Vite](https://github.com/vitejs/vite)、 [TypeScript](https://www.typescriptlang.org/)、[TDesign](https://tdesign.tencent.com/) 的中后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、动态菜单、权限校验、多主题配置、按钮级别权限控制等功能。项目会使用前端较新的技术栈，可以作为项目的启动模板，以帮助你快速搭建企业级中后台产品原型。也可以作为一个示例，用于学习 `vue3`、`vite`、`ts` 等主流技术。该项目会持续跟进最新技术，并将其应用在项目中。
 
 ## 特点
 
@@ -36,7 +35,7 @@
 
 ## 贡献
 
-- [Vben Admin](https://github.com/vbenjs/vue-vben-admin) 还在持续更新中，本项目欢迎您的参与，共同维护，逐步完善，打造更好的中后台解决方案。
+- [Vue Vben Admin TDesign](https://github.com/Ducr/vue-vben-admin-tdesign) 还在持续更新中，本项目欢迎您的参与，共同维护，逐步完善，打造更好的中后台解决方案。
 - 如果你有兴趣加入我们，可以通过以下方式开始，我们会根据你的活跃度邀请你加入。
 
 ::: info 加入我们

@@ -1,26 +1,24 @@
 <div align="center">
-  <a href="https://github.com/anncwb/vue-vben-admin">
-    <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
+  <a href="https://github.com/Ducr/vue-vben-admin-tdesign">
+    <img alt="Vue Vben Admin TDesign Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
   <br>
 
-[![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/Ducr/vue-vben-admin-tdesign.svg)](LICENSE)
 
-  <h1>Vue Vben Admin</h1>
+  <h1>Vue Vben Admin TDesign</h1>
 </div>
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) ![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg) ![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg) ![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg) ![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)
 
 **中文** | [English](./README.md) | [日本語](./README.ja-JP.md)
 
 ## 简介
 
-Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的中后台模板，它采用了最新的 Vue 3、Vite、TypeScript 等主流技术开发，开箱即用，可用于中后台前端开发，也适合学习参考。
+Vue Vben Admin TDesign 是基于 TDesign 的免费开源中后台模板。它采用了最新的 Vue 3、Vite、TypeScript 等主流技术开发，开箱即用，可用于中后台前端开发，也适合学习参考。
 
 ## 升级提示
 
-该版本为最新版本 `5.0`，与其他版本不兼容，如果你是新项目，建议使用最新版本。如果你想查看旧版本，请使用 [v2 分支](https://github.com/vbenjs/vue-vben-admin/tree/v2)
+该版本为最新版本 `5.0`，与其他版本不兼容，如果你是新项目，建议使用最新版本。
 
 ## 特性
 
@@ -32,9 +30,7 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 ## 预览
 
-- [Vben Admin](https://vben.pro/) - 完整版中文站点
-
-测试账号：vben/123456
+- [Vue Vben Admin TDesign](https://ducrong.com/vue-vben-admin-tdesign) - TDesign 版本站点
 
 <div align="center">
   <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
@@ -46,24 +42,24 @@ Vue Vben Admin 是 Vue Vben Admin 的升级版本。作为一个免费开源的�
 
 在 Gitpod（适用于 GitHub 的免费在线开发环境）中打开项目，并立即开始编码。
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ducr/vue-vben-admin-tdesign)
 
 ## 文档
 
-[文档地址](https://doc.vben.pro/)
+[文档地址](https://ducrong.com/vue-vben-admin-tdesign/docs)
 
 ## 安装使用
 
 1. 获取项目代码
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-tdesign.git
 ```
 
 2. 安装依赖
 
 ```bash
-cd vue-vben-admin
+cd vue-vben-admin-tdesign
 npm i -g corepack
 pnpm install
 ```
@@ -82,11 +78,11 @@ pnpm build
 
 ## 更新日志
 
-[CHANGELOG](https://github.com/vbenjs/vue-vben-admin/releases)
+[CHANGELOG](https://github.com/Ducr/vue-vben-admin-tdesign/releases)
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/anncwb/vue-vben-admin/issues/new/choose) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/Ducr/vue-vben-admin-tdesign/issues/new/choose) 或者提交一个 Pull Request。
 
 **Pull Request 流程：**
 
@@ -124,11 +120,11 @@ pnpm build
 
 ## 维护者
 
-[@Vben](https://github.com/anncwb)
+[@Ducr](https://github.com/Ducr)
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbenjs/vue-vben-admin&type=Date)](https://star-history.com/#vbenjs/vue-vben-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/vue-vben-admin-tdesign&type=Date)](https://star-history.com/#Ducr/vue-vben-admin-tdesign&Date)
 
 ## 捐赠
 
@@ -140,18 +136,18 @@ pnpm build
 
 ## 贡献者
 
-<a href="https://openomy.app/github/vbenjs/vue-vben-admin" target="_blank" style="display: block; width: 100%;" align="center">
-  <img src="https://openomy.app/svg?repo=vbenjs/vue-vben-admin&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+<a href="https://openomy.app/github/Ducr/vue-vben-admin-tdesign" target="_blank" style="display: block; width: 100%;" align="center">
+  <img src="https://openomy.app/svg?repo=Ducr/vue-vben-admin-tdesign&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
  </a>
 
-<a href="https://github.com/vbenjs/vue-vben-admin/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=vbenjs/vue-vben-admin" />
+<a href="https://github.com/Ducr/vue-vben-admin-tdesign/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=Ducr/vue-vben-admin-tdesign" />
 </a>
 
 ## Discord
 
-- [Github Discussions](https://github.com/anncwb/vue-vben-admin/discussions)
+- [Github Discussions](https://github.com/Ducr/vue-vben-admin-tdesign/discussions)
 
 ## 许可证
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © Ducr-2024](./LICENSE)

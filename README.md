@@ -1,26 +1,24 @@
 <div align="center">
-  <a href="https://github.com/anncwb/vue-vben-admin">
-    <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
+  <a href="https://github.com/Ducr/vue-vben-admin-tdesign">
+    <img alt="Vue Vben Admin TDesign Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
   <br>
 
-[![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/Ducr/vue-vben-admin-tdesign.svg)](LICENSE)
 
-  <h1>Vue Vben Admin</h1>
+  <h1>Vue Vben Admin TDesign</h1>
 </div>
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) [![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml) [![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml) [![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml) [![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml)
 
 **English** | [中文](./README.zh-CN.md) | [日本語](./README.ja-JP.md)
 
 ## Introduction
 
-Vue Vben Admin is a free and open source middle and back-end template. Using the latest `vue3`, `vite`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
+Vue Vben Admin TDesign is a free and open source middle and back-end template based on TDesign. Using the latest `vue3`, `vite`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
 
 ## Upgrade Notice
 
-This is the latest version, 5.0, and it is not compatible with previous versions. If you are starting a new project, it is recommended to use the latest version. If you wish to view the old version, please use the [v2 branch](https://github.com/vbenjs/vue-vben-admin/tree/v2).
+This is the latest version, 5.0, and it is not compatible with previous versions. If you are starting a new project, it is recommended to use the latest version.
 
 ## Features
 
@@ -32,9 +30,7 @@ This is the latest version, 5.0, and it is not compatible with previous versions
 
 ## Preview
 
-- [Vben Admin](https://vben.pro/) - Full version Chinese site
-
-Test Account: vben/123456
+- [Vue Vben Admin TDesign](https://ducrong.com/vue-vben-admin-tdesign) - TDesign version site
 
 <div align="center">
   <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
@@ -46,24 +42,24 @@ Test Account: vben/123456
 
 Open the project in Gitpod (free online dev environment for GitHub) and start coding immediately.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vbenjs/vue-vben-admin)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ducr/vue-vben-admin-tdesign)
 
 ## Documentation
 
-[Document](https://doc.vben.pro/)
+[Document](https://ducrong.com/vue-vben-admin-tdesign/docs)
 
 ## Install and Use
 
 1. Get the project code
 
 ```bash
-git clone https://github.com/vbenjs/vue-vben-admin.git
+git clone https://github.com/Ducr/vue-vben-admin-tdesign.git
 ```
 
 2. Install dependencies
 
 ```bash
-cd vue-vben-admin
+cd vue-vben-admin-tdesign
 npm i -g corepack
 pnpm install
 ```
@@ -82,11 +78,11 @@ pnpm build
 
 ## Change Log
 
-[CHANGELOG](https://github.com/vbenjs/vue-vben-admin/releases)
+[CHANGELOG](https://github.com/Ducr/vue-vben-admin-tdesign/releases)
 
 ## How to Contribute
 
-You are very welcome to join! [Raise an issue](https://github.com/anncwb/vue-vben-admin/issues/new/choose) or submit a Pull Request.
+You are very welcome to join! [Raise an issue](https://github.com/Ducr/vue-vben-admin-tdesign/issues/new/choose) or submit a Pull Request.
 
 **Pull Request Process:**
 
@@ -124,11 +120,11 @@ Support modern browsers, not IE
 
 ## Maintainer
 
-[@Vben](https://github.com/anncwb)
+[@Ducr](https://github.com/Ducr)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbenjs/vue-vben-admin&type=Date)](https://star-history.com/#vbenjs/vue-vben-admin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ducr/vue-vben-admin-tdesign&type=Date)](https://star-history.com/#Ducr/vue-vben-admin-tdesign&Date)
 
 ## Donate
 
@@ -140,18 +136,18 @@ If you think this project is helpful to you, you can help the author buy a cup o
 
 ## Contributors
 
-<a href="https://openomy.app/github/vbenjs/vue-vben-admin" target="_blank" style="display: block; width: 100%;" align="center">
-  <img src="https://openomy.app/svg?repo=vbenjs/vue-vben-admin&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+<a href="https://openomy.app/github/Ducr/vue-vben-admin-tdesign" target="_blank" style="display: block; width: 100%;" align="center">
+  <img src="https://openomy.app/svg?repo=Ducr/vue-vben-admin-tdesign&chart=bubble&latestMonth=3" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
  </a>
 
-<a href="https://github.com/vbenjs/vue-vben-admin/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=vbenjs/vue-vben-admin" />
+<a href="https://github.com/Ducr/vue-vben-admin-tdesign/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=Ducr/vue-vben-admin-tdesign" />
 </a>
 
 ## Discord
 
-- [Github Discussions](https://github.com/anncwb/vue-vben-admin/discussions)
+- [Github Discussions](https://github.com/Ducr/vue-vben-admin-tdesign/discussions)
 
 ## License
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © Ducr-2024](./LICENSE)
