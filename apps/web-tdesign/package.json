@@ -49,6 +49,7 @@
     "vue-router": "catalog:"
   },
   "devDependencies": {
-    "@types/lodash-es": "^4.17.12"
+    "@types/lodash-es": "^4.17.12",
+    "cssnano": "catalog:"
   }
 }
